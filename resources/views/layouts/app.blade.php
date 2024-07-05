@@ -53,5 +53,10 @@
 		<!-- Custom JS -->
 		<script src="{{ URL::to('assets/js/app.js') }}"></script>
         @yield('script')
+        <!-- Footer -->
+    <div class="footer">
+        <p>© 2024 Aeternitas.  Privacy  Terms</p>
+    </div>
+    <!-- End Footer -->
     </body>
 </html>
